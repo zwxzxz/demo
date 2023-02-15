@@ -1,4 +1,4 @@
-FROM openjdk:8
+FROM java:8u111-jre-alpine
 EXPOSE 8080
 
 WORKDIR /root
